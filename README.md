@@ -1,2 +1,2 @@
 # Market Analysis Supply and Demand Streamlit Application
-link https://huy42lhhme7fdsxehzknsu.streamlit.app/
+link https://market-analysis-for-supply-and-demand-app-ec7inpyzhqjadh4fskjg.streamlit.app/
